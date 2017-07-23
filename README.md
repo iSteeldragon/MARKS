@@ -5,4 +5,4 @@ What is **MARKS**? **MARKS** is a universal Administration complaint document, d
 
 
 ## Contributing to MARKS
-You can read the contribution guide [HERE](../blob/master/CONTRIBUTING.md
+You can read the contribution guide [HERE](../blob/master/CONTRIBUTING.md)
