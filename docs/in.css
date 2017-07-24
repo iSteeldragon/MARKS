@@ -1,0 +1,14 @@
+body{
+  background: black;
+}
+
+.block {
+  background: white;
+  margin: 20px;
+  padding: 50px;
+  font-family: 'Roboto Slab', serif;
+}
+ .cn {text-align: center;}
+ .bold {font-weight: bolder;}
+ .light {font-weight: lighter;}
+ .il {display: inline-block;}
