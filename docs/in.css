@@ -8,9 +8,9 @@ body{
   padding: 50px;
   font-family: 'Roboto Slab', serif;
 }
- .cn {text-align: center;}
+ .cn {text-align: center;margin: auto;}
  .bold {font-weight: bolder;}
  .light {font-weight: lighter;}
  .il {display: inline-block;}
- 
+
 iframe {display:block;}
