@@ -13,4 +13,4 @@ body{
  .light {font-weight: lighter;}
  .il {display: inline-block;}
 
-iframe {display:block;}
+iframe {display:block; margin: auto;}
