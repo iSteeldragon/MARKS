@@ -1,0 +1,7 @@
+State the complainant's name. “Cnt: {ENTER NAME}.”
+    -If the complainant is a company, "CMt: {Company Type} - {Company Name}"
+    -If the complainant is an indiviual, omit this.
+State the receiver's name and website.: "RCv {Reciever Name} - {Reciever Website}”
+    -If the reciever is the accused, omit this.
+State the user questioned. "Cmpl: {Username}"
+    -If the website is the accused - "Cmpl: RCv - {Complainant Name} - {Complainant Website}"

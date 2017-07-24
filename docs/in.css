@@ -1,7 +1,6 @@
 body{
   background: black;
 }
-
 .block {
   background: white;
   margin: 20px;
@@ -12,5 +11,6 @@ body{
  .bold {font-weight: bolder;}
  .light {font-weight: lighter;}
  .il {display: inline-block;}
+ .pg {margin-left:140px;margin-right:140px;}
 
 iframe,img {display:block; margin: auto;}
