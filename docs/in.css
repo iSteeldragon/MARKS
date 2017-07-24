@@ -12,3 +12,5 @@ body{
  .bold {font-weight: bolder;}
  .light {font-weight: lighter;}
  .il {display: inline-block;}
+ 
+iframe {display:block;}
